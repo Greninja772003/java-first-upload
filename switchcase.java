@@ -14,7 +14,7 @@ public class switchcase {
             case "Grapes":
                 System.out.println("Small but sweet");
                 break;
-            case "Orange":
+            case "Strawberry":
                 System.out.println("The round one but sour also");
                 break;
             case "Watermelon":
